@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio Pro",
+  "description": "All-in-one QR Code Generator Studio with advanced customization, vector export, camera scanner, bulk creation, and scan analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
