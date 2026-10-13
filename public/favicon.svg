@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded gradient container -->
+  <defs>
+    <linearGradient id="qrFaviconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#qrFaviconGrad)" />
+
+  <!-- Top-left finder eye -->
+  <rect x="12" y="12" width="16" height="16" rx="4" fill="white" />
+  <rect x="16" y="16" width="8" height="8" rx="2" fill="#4f46e5" />
+  <rect x="18" y="18" width="4" height="4" rx="1" fill="white" />
+
+  <!-- Top-right finder eye -->
+  <rect x="36" y="12" width="16" height="16" rx="4" fill="white" />
+  <rect x="40" y="16" width="8" height="8" rx="2" fill="#4f46e5" />
+  <rect x="42" y="18" width="4" height="4" rx="1" fill="white" />
+
+  <!-- Bottom-left finder eye -->
+  <rect x="12" y="36" width="16" height="16" rx="4" fill="white" />
+  <rect x="16" y="40" width="8" height="8" rx="2" fill="#4f46e5" />
+  <rect x="18" y="42" width="4" height="4" rx="1" fill="white" />
+
+  <!-- QR Modules / Dots -->
+  <rect x="36" y="36" width="6" height="6" rx="1.5" fill="white" />
+  <rect x="46" y="36" width="6" height="6" rx="1.5" fill="white" />
+  <rect x="36" y="46" width="6" height="6" rx="1.5" fill="white" />
+  <rect x="46" y="46" width="6" height="6" rx="1.5" fill="white" />
+  <rect x="30" y="22" width="4" height="4" rx="1" fill="white" />
+  <rect x="30" y="38" width="4" height="4" rx="1" fill="white" />
+  <rect x="22" y="30" width="4" height="4" rx="1" fill="white" />
+  <rect x="38" y="30" width="4" height="4" rx="1" fill="white" />
+</svg>
